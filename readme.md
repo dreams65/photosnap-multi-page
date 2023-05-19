@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL](https://your-solution-url.com)
-- Live Site URL: [Add live site URL](https://your-live-site-url.com)
+- Solution URL: [Add solution URL](https://github.com/dreams65/photosnap-multi-page)
+- Live Site URL: [Add live site URL](https://dreams65.github.io/photosnap-multi-page/)
 
 ## My process
 
